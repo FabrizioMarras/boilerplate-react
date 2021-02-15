@@ -1,4 +1,4 @@
-# react-starter-boilerplate-hmr
+# boilerplate-react
 
 > React Starter Boilerplate with React Fast Refresh and Webpack 5
 
